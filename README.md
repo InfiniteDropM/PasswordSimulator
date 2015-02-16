@@ -13,6 +13,5 @@ Credit to:
 Tutorial(s) ~ Not any specific, but took aspects from several
 
 This was just an experimentation, but be sure to tell me what you think and how I can improve upon the 'project' :)
-Also, GitHub repository is soon to be created, so you can look at the code and learn for yourself!
 
 Note: Text-to-Dot script is quite glitchy, as I am still learning ActionScript 3, so keep that in mind :)
