@@ -1,0 +1,1 @@
+﻿/* Main Class *//* Developed by InfiniteDrop Media */package classes{	import classes.iPass;	import flash.display.Sprite;		public class Main extends Sprite	{		public function Main():void		{			iPass.maskTextField(passField);		}				/*private function getPassword():void		{			trace(iPass.pass);		}*/	}}
