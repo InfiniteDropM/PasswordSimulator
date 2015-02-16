@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Simulator
 Quick password simulator, created for experimentation(s) and will possibly be implemented in future projects! For more on this so-called 'project,' visit http://bit.ly/1vNStrj
 
@@ -16,3 +17,7 @@ This was just an experimentation, but be sure to tell me what you think and how 
 Also, GitHub repository is soon to be created, so you can look at the code and learn for yourself!
 
 Note: Text-to-Dot script is quite glitchy, as I am still learning ActionScript 3, so keep that in mind :)
+=======
+# PasswordSimulator
+Quick password simulator, created for experimentation(s) and will possibly be implemented in future projects! For more on this so-called 'project,' visit http://bit.ly/1vNStrj
+>>>>>>> FETCH_HEAD
